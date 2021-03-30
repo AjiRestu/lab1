@@ -6,8 +6,8 @@
 
 ##Langkah - Langkah
 ### 1. Membuat Paragraf
-Saya akan membuat paragraf menggunakan tag <p>
+Saya akan membuat paragraf menggunakan tag "p".
  
- ![](Photo/Capture.png)
+ ![](Photo/Capture.PNG)
  
  
