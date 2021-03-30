@@ -67,7 +67,7 @@ Jawab pertanyaan Berikut
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut? 
 
 jawab:
-1.
+1. -
 2.tag "p" hanya untuk memberikan paragraf dari sebuah kata dan tag "br" hanya break line, memindahkan sebuah kata ke baris selanjutnya.
 
 3.Tittle adalah untuk memberikan judul pada gambar. Alt adalah text ini akan muncul di dalam wadah gambar ketika gambar tidak dapat di tampilkan.
